@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="carpoolxx.png"><SubTexture name="carpoolxx idle0000" x="2769" y="0" width="527" height="937" frameX="-184" frameY="-43" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="carpoolxx idle0001" x="889" y="0" width="522" height="956" frameX="-188" frameY="-23" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="carpoolxx idle0002" x="1411" y="0" width="522" height="956" frameX="-188" frameY="-23" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="carpoolxx idle0003" x="1193" y="980" width="525" height="949" frameX="-185" frameY="-30" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="carpoolxx idle0004" x="1411" y="0" width="522" height="956" frameX="-188" frameY="-23" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="carpoolxx idle0005" x="889" y="0" width="522" height="956" frameX="-188" frameY="-23" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="carpoolxx idle0006" x="2769" y="0" width="527" height="937" frameX="-184" frameY="-43" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="carpoolxx right0000" x="1718" y="980" width="560" height="947" frameX="-293" frameY="-32" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="carpoolxx right0001" x="602" y="980" width="591" height="950" frameX="-293" frameY="-29" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="carpoolxx right0002" x="0" y="980" width="602" height="955" frameX="-272" frameY="-25" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="carpoolxx left0000" x="2367" y="0" width="402" height="941" frameX="-295" frameY="-38" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="carpoolxx left0001" x="2367" y="941" width="379" height="941" frameX="-295" frameY="-38" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="carpoolxx up0000" x="1933" y="0" width="434" height="956" frameX="-306" frameY="-23" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="carpoolxx up0001" x="440" y="0" width="449" height="965" frameX="-306" frameY="-14" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="carpoolxx up0002" x="0" y="0" width="440" height="980" frameX="-306" frameY="0" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="carpoolxx down0000" x="2769" y="937" width="414" height="933" frameX="-314" frameY="-46" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="carpoolxx down0001" x="0" y="1935" width="411" height="923" frameX="-314" frameY="-56" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="carpoolxx down0002" x="411" y="1935" width="413" height="912" frameX="-313" frameY="-68" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

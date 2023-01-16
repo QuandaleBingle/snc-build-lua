@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="geterv2.png"><SubTexture name="geterv2 idle0000" x="838" y="681" width="468" height="643" frameX="-713" frameY="-66" frameWidth="1280" frameHeight="720" />
+<SubTexture name="geterv2 idle0001" x="0" y="1358" width="484" height="632" frameX="-714" frameY="-78" frameWidth="1280" frameHeight="720" />
+<SubTexture name="geterv2 idle0002" x="0" y="1990" width="508" height="610" frameX="-712" frameY="-101" frameWidth="1280" frameHeight="720" />
+<SubTexture name="geterv2 idle0003" x="0" y="1358" width="484" height="632" frameX="-714" frameY="-78" frameWidth="1280" frameHeight="720" />
+<SubTexture name="geterv2 idle0004" x="838" y="681" width="468" height="643" frameX="-713" frameY="-66" frameWidth="1280" frameHeight="720" />
+<SubTexture name="geterv2 left0000" x="484" y="1358" width="393" height="632" frameX="-730" frameY="-74" frameWidth="1280" frameHeight="720" />
+<SubTexture name="geterv2 left0001" x="2132" y="0" width="398" height="621" frameX="-725" frameY="-83" frameWidth="1280" frameHeight="720" />
+<SubTexture name="geterv2 left0002" x="2132" y="621" width="398" height="621" frameX="-725" frameY="-83" frameWidth="1280" frameHeight="720" />
+<SubTexture name="geterv2 right0000" x="1676" y="0" width="456" height="639" frameX="-698" frameY="-70" frameWidth="1280" frameHeight="720" />
+<SubTexture name="geterv2 right0001" x="1270" y="1358" width="466" height="629" frameX="-698" frameY="-80" frameWidth="1280" frameHeight="720" />
+<SubTexture name="geterv2 right0002" x="1676" y="639" width="456" height="639" frameX="-698" frameY="-70" frameWidth="1280" frameHeight="720" />
+<SubTexture name="geterv2 up0000" x="838" y="0" width="419" height="677" frameX="-732" frameY="-31" frameWidth="1280" frameHeight="720" />
+<SubTexture name="geterv2 up0001" x="0" y="0" width="419" height="681" frameX="-732" frameY="-27" frameWidth="1280" frameHeight="720" />
+<SubTexture name="geterv2 up0002" x="1257" y="0" width="419" height="677" frameX="-732" frameY="-31" frameWidth="1280" frameHeight="720" />
+<SubTexture name="geterv2 down0000" x="508" y="1990" width="491" height="573" frameX="-690" frameY="-138" frameWidth="1280" frameHeight="720" />
+<SubTexture name="geterv2 down0001" x="1490" y="1990" width="498" height="560" frameX="-697" frameY="-144" frameWidth="1280" frameHeight="720" />
+<SubTexture name="geterv2 missleft0000" x="877" y="1358" width="393" height="632" frameX="-730" frameY="-74" frameWidth="1280" frameHeight="720" />
+<SubTexture name="geterv2 missleft0001" x="2132" y="1242" width="398" height="621" frameX="-725" frameY="-83" frameWidth="1280" frameHeight="720" />
+<SubTexture name="geterv2 missleft0002" x="2530" y="0" width="398" height="621" frameX="-725" frameY="-83" frameWidth="1280" frameHeight="720" />
+<SubTexture name="geterv2 missdown0000" x="2928" y="0" width="662" height="412" frameX="-602" frameY="-308" frameWidth="1280" frameHeight="720" />
+<SubTexture name="geterv2 missdown0001" x="0" y="2600" width="667" height="380" frameX="-602" frameY="-340" frameWidth="1280" frameHeight="720" />
+<SubTexture name="geterv2 missleft0003" x="0" y="681" width="419" height="677" frameX="-732" frameY="-31" frameWidth="1280" frameHeight="720" />
+<SubTexture name="geterv2 missleft0004" x="419" y="0" width="419" height="681" frameX="-732" frameY="-27" frameWidth="1280" frameHeight="720" />
+<SubTexture name="geterv2 missleft0005" x="419" y="681" width="419" height="677" frameX="-732" frameY="-31" frameWidth="1280" frameHeight="720" />
+<SubTexture name="geterv2 missdown0002" x="999" y="1990" width="491" height="573" frameX="-690" frameY="-138" frameWidth="1280" frameHeight="720" />
+<SubTexture name="geterv2 missdown0003" x="1988" y="1990" width="498" height="560" frameX="-697" frameY="-144" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

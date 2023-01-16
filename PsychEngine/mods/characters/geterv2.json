@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				545,
+				289
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "geterv2 idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				635,
+				283
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "geterv2 left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				600,
+				259
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "geterv2 down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				556,
+				288
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "geterv2 up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				522,
+				293
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "geterv2 right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				587,
+				309
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "geterv2 missleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				580,
+				296
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "geterv2 missdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				526,
+				302
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "geterv2 missright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				534,
+				287
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "geterv2 missup",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/geterv2",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		209
+	],
+	"camera_position": [
+		440,
+		-240
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

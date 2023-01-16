@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				226,
+				154
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "carpoolxx down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				227,
+				154
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "carpoolxx right"
+		},
+		{
+			"offsets": [
+				226,
+				154
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "carpoolxx left"
+		},
+		{
+			"offsets": [
+				226,
+				154
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "idle",
+			"loop": false,
+			"name": "carpoolxx idle"
+		},
+		{
+			"offsets": [
+				227,
+				154
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "singUP",
+			"loop": false,
+			"name": "carpoolxx up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/carpoolxx",
+	"position": [
+		-140,
+		100
+	],
+	"healthicon": "spirit-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		60,
+		110
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 5.4,
+	"scale": 0.800000000000004
+}
